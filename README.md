@@ -1,8 +1,7 @@
 # Polina-Kislenko.github.io
 
-<h3>Test</h3>
 
-USED TECHNIQUES:
+<h3>USED TECHNIQUES:</h3>
 - Bootstrapping
 - Pandas
 - Mean calculation
